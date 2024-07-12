@@ -1,0 +1,16 @@
+1). Install Node.js: 
+	- Go To Node.js website.
+	- Download the LTS (Long Term Support) version for your operating system.
+
+2). Install TypeScript:
+	- npm install -g typescript
+
+3). Install VS Code:
+	Go to https://code.visualstudio.com/download Website.
+	Download and install Latest VS code version.
+Verify Installations:
+
+- For Checking Node js installation & version : node -v
+- For Checking npm installation & verson : npm -v
+- For Checking typescript installation & version :tsc -v
+- For Checking vscode installation & version: code -v
